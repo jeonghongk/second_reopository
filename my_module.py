@@ -5,4 +5,8 @@ def sub(a, b):
 	return a-b
 
 dev div(a,b):
-	return a/b #주석 처리
+	return a/b
+
+dev multi(a,b):
+	return a*b
+
